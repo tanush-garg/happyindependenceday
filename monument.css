@@ -1,0 +1,51 @@
+body{
+    background-color: chartreuse;
+    text-align: center;
+    padding: 25px;
+    }
+
+    
+    
+    img{
+    width: 480px;
+    height: 310px;
+    }
+
+       h1{
+       color: darkorange;
+        padding: 10px;
+        font-size: 55px;
+        font-style: italic;
+        }
+        
+        h2{
+        color: red;
+        padding: 10px;
+        font-style: oblique;
+        font-size: 30px;
+        }
+        
+        p{
+        padding: 10px;
+        font-size: 25px;
+        font-variant: initial;
+        }
+
+    #button{
+        max-width: 220px;
+        height: 60px;
+        width: 40vw;
+        padding: 5px;
+        background-color: blue;
+        border: black;
+        box-shadow: rgb(218, 85, 85);
+        border-radius: 50px;
+        font-size: 30px;
+        font-family: cursive;
+        letter-spacing: 3px;
+        color: white;
+        cursor: pointer;
+    }
+    #button:hover{
+        color: orange;
+    }

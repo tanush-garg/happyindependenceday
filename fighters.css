@@ -1,0 +1,31 @@
+  body{
+    background-color: rgb(137, 192, 36);
+    text-align: center;
+    padding: 25px;
+    }
+
+    
+    
+    img{
+    width: 470px;
+    height: 310px;
+    }
+       h1{
+       color:rgb(70, 15, 170);
+        padding: 9px;
+        font-size: 60px;
+        font-style: italic;
+        }
+        
+        h2{
+        color: rgb(48, 19, 177);
+        padding: 10px;
+        font-size: 30px;
+        font-style: initial;
+        }
+        
+        p{
+        padding: 10px;
+        font-size: 25px;
+        font-variant: initial;
+        }

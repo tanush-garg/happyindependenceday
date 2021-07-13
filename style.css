@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(236, 167, 111);
+    text-align: center;
+    padding: 25px;
+    }
+
+    
+    
+    img{
+    width: 460px;
+    height: 305px;
+    }
+       h1{
+       color: green;
+        padding: 10px;
+        font-size: 55px;
+        font-style: italic;
+        }
+        
+        h2{
+        color: green;
+        padding: 10px;
+        font-style: oblique;
+        font-size: 30px;
+        }
+        
+        p{
+        padding: 10px;
+        font-size: 25px;
+        font-variant: initial;
+        }
+
+    #button{
+        max-width: 220px;
+        height: 60px;
+        width: 40vw;
+        padding: 5px;
+        background-color: rgb(62, 238, 106);
+        border: black;
+        box-shadow: rgb(228, 165, 70);
+        border-radius: 50px;
+        font-size: 30px;
+        font-family: cursive;
+        letter-spacing: 3px;
+        color: white;
+        cursor: pointer;
+    }
+    #button:hover{
+        color: rgb(23, 105, 182);
+    }
